@@ -30,6 +30,8 @@ Habilidades:
   <img align="center" alt="Thi-Express.js" height="30" width="65" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img align="center" alt="Thi-Vue.js" height="30" width="65" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img align="center" alt="Thi-Git" height="30" width="65" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 </div>
     
   ##
@@ -41,4 +43,5 @@ Contacts:
 <a href="https://wa.me/5511948835720?text=Ol%C3%A1%2C+Dev-ThiagoLima%F0%9F%92%BB%F0%9F%96%A4" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="http://linkedin.com/in/thiago-santos-lima-a86916297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
