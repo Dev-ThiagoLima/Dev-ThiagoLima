@@ -3,10 +3,10 @@
 🚀 Desenvolvedor Full-Stack apaixonado por transformar ideias em soluções inovadoras. Atualmente, foco em criar experiências web incríveis, desde o back-end até o front-end.
 
 <a href="https://github.com/Dev-ThiagoLima/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-ThiagoLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-ThiagoLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Dev-ThiagoLima/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-ThiagoLima&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-ThiagoLima&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
 </a>
 
 ##
