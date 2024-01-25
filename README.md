@@ -1,10 +1,13 @@
 
 ## Oiii! Eu sou o Thiago Lima👩‍💻 👋
 
-• 🔭 Atualmente estou em busca do primeiro emprego: Back-End e Front-End
-• 🌱 Atualmente estou aprendendo: JavaScript & PHP & React & Node.Js
+• 🔭 Atualmente estou em busca do primeiro emprego: Back-End e Front-End;
+
+• 🌱 Atualmente estou aprendendo: JavaScript & PHP & React & Node.Js;
+
 • 🖥️ Estudando: Análise e Desenvolvimento de Sistemas na UNG;
-• 🎒 Ferramentas Principais: Visual Studio Code and GitHub
+
+• 🎒 Ferramentas Principais: Visual Studio Code and GitHub;
 
 <a href="https://github.com/Dev-ThiagoLima/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-ThiagoLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
