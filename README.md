@@ -1,6 +1,10 @@
-## Olá, sou Thiago Lima!
 
-🚀 Desenvolvedor Full-Stack apaixonado por transformar ideias em soluções inovadoras. Atualmente, foco em criar experiências web incríveis, desde o back-end até o front-end.
+## Oiii! Eu sou o Thiago Lima👩‍💻 👋
+
+🔭 Atualmente estou em busca do primeiro emprego: Back-End e Front-End
+🌱 Atualmente estou aprendendo: JavaScript & PHP & React & Node.Js
+🖥️ Estudando: Análise e Desenvolvimento de Sistemas na UNG;
+🎒 Ferramentas Principais: Visual Studio Code and GitHub
 
 <a href="https://github.com/Dev-ThiagoLima/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-ThiagoLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
